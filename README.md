@@ -9,7 +9,7 @@
 - ex7 - add to cart - https://867ow.csb.app/
 - ex8 - switch tabs - https://s8kye.csb.app/
 - ex9 - toast - https://7qs84.csb.app/
-- ex10 - todo/strikethrough - 
-- ex11 - dark mode - 
-- ex12 - like in a list - 
-- ex13 - out of stock (grey)
+- ex10 - todo/strikethrough - https://pvs0r.csb.app/
+- ex11 - dark mode - https://m5rky.csb.app/
+- ex12 - like in a list - https://fxy2x.csb.app/
+- ex13 - out of stock (grey)- https://0cbu3.csb.app/
